@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source
+END
+CoreData+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/CoreData+MagicalRecord.h
+END
+MRCoreDataAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/MRCoreDataAction.h
+END
+MagicalRecordHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/MagicalRecordHelpers.h
+END
+MRCoreDataAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/MRCoreDataAction.m
+END
+MagicalRecordHelpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/MagicalRecordHelpers.m
+END
+MagicalRecordShorthand.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/MagicalRecordShorthand.h
+END

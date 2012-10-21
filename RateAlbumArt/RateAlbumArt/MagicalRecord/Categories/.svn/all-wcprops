@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories
+END
+NSPersistentStoreCoordinator+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSPersistentStoreCoordinator+MagicalRecord.h
+END
+NSPersistentStore+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSPersistentStore+MagicalRecord.m
+END
+NSManagedObject+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObject+MagicalRecord.h
+END
+NSManagedObjectModel+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObjectModel+MagicalRecord.h
+END
+NSPersistentStoreCoordinator+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSPersistentStoreCoordinator+MagicalRecord.m
+END
+NSManagedObject+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObject+MagicalRecord.m
+END
+NSManagedObjectContext+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObjectContext+MagicalRecord.h
+END
+NSManagedObject+MagicalDataImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObject+MagicalDataImport.h
+END
+NSManagedObjectModel+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObjectModel+MagicalRecord.m
+END
+NSManagedObjectContext+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObjectContext+MagicalRecord.m
+END
+NSPersistentStore+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSPersistentStore+MagicalRecord.h
+END
+NSManagedObject+MagicalDataImport.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/MMToolKit/!svn/ver/16/trunk/iOS/MMThirdPartyRepos/MagicalRecord/Source/Categories/NSManagedObject+MagicalDataImport.m
+END
