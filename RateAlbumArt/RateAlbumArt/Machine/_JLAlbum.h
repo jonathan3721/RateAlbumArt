@@ -18,7 +18,7 @@ extern const struct JLAlbumFetchedProperties {
 } JLAlbumFetchedProperties;
 
 
-@class NSObject;
+@class UIImage;
 
 
 
@@ -35,7 +35,7 @@ extern const struct JLAlbumFetchedProperties {
 
 
 
-@property (nonatomic, strong) id albumArt;
+@property (nonatomic, strong) UIImage* albumArt;
 
 
 //- (BOOL)validateAlbumArt:(id*)value_ error:(NSError**)error_;
@@ -82,8 +82,8 @@ extern const struct JLAlbumFetchedProperties {
 @interface _JLAlbum (CoreDataGeneratedPrimitiveAccessors)
 
 
-- (id)primitiveAlbumArt;
-- (void)setPrimitiveAlbumArt:(id)value;
+- (UIImage*)primitiveAlbumArt;
+- (void)setPrimitiveAlbumArt:(UIImage*)value;
 
 
 
