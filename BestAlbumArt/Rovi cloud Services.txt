@@ -1,0 +1,24 @@
+Rovi cloud Services
+
+http://api.rovicorp.com/data/v1/
+
+Key: 6k8c79r7yfq3pp72da9nqmxe
+
+Application: BestAlbumArt Key: 6k8c79r7yfq3pp72da9nqmxe Shared Secret: sxkvZxDNdn Status: active Registered: 11 seconds ago
+Key Rate Limits
+10	Calls per second
+Unlimited	Calls per day
+Metadata and Search API
+Key: 42c94fdxxwzrhawjhggx7w6d
+
+Application: BestAlbumArt Key: 42c94fdxxwzrhawjhggx7w6d Shared Secret: Ck4483Jnxs Status: active Registered: 10 seconds ago
+Key Rate Limits
+5	Calls per second
+3,500	Calls per day
+TV Listings API
+Key: zby4zbrk78bqe8be5rw645qq
+
+Application: BestAlbumArt Key: zby4zbrk78bqe8be5rw645qq Status: active Registered: 6 seconds ago
+Key Rate Limits
+5	Calls per second
+1,000	Calls per day

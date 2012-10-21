@@ -1,0 +1,4 @@
+Last FM API Key
+
+Your API Key is 709c7a566a2225cf0049c61ab419a97b
+Your secret is 29e28ebaeae2988609c32f8be0d851eb

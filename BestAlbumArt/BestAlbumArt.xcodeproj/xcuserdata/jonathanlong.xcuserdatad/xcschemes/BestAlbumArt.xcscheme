@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0440"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <PreActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "DATAMODEL_WRAPPER=&quot;$BASE_PROJECT_PATH/$PRODUCT_NAME.xcdatamodeld&quot;&#10;DATAMODEL_CURRENT=`/usr/libexec/PlistBuddy -c &quot;print _XCCurrentVersionName&quot; &quot;$DATAMODEL_WRAPPER&quot;/.xccurrentversion`&#10;DATAMODEL_PATH=&quot;$DATAMODEL_WRAPPER/$DATAMODEL_CURRENT&quot;&#10;mogenerator --model &quot;$DATAMODEL_PATH&quot; --base-class $MODEL_BASE_CLASS -M &quot;$MACHINE_FOLDER_GROUP_PATH&quot; -H &quot;$HUMAN_FOLDER_GROUP_PATH&quot; --template-var arc=$IS_ARC">
+               <EnvironmentBuildable>
+                  <BuildableReference
+                     BuildableIdentifier = "primary"
+                     BlueprintIdentifier = "565D5FD115EC04A9000B99C3"
+                     BuildableName = "BestAlbumArt.app"
+                     BlueprintName = "BestAlbumArt"
+                     ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+                  </BuildableReference>
+               </EnvironmentBuildable>
+            </ActionContent>
+         </ExecutionAction>
+      </PreActions>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "565D5FD115EC04A9000B99C3"
+               BuildableName = "BestAlbumArt.app"
+               BlueprintName = "BestAlbumArt"
+               ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "565D600A15EC04AA000B99C3"
+               BuildableName = "BestAlbumArtTests.octest"
+               BlueprintName = "BestAlbumArtTests"
+               ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "565D5FD115EC04A9000B99C3"
+            BuildableName = "BestAlbumArt.app"
+            BlueprintName = "BestAlbumArt"
+            ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "565D5FD115EC04A9000B99C3"
+            BuildableName = "BestAlbumArt.app"
+            BlueprintName = "BestAlbumArt"
+            ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "565D5FD115EC04A9000B99C3"
+            BuildableName = "BestAlbumArt.app"
+            BlueprintName = "BestAlbumArt"
+            ReferencedContainer = "container:BestAlbumArt.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
